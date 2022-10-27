@@ -1,7 +1,8 @@
 # express-http-proxy-2 [![NPM version](https://badge.fury.io/js/express-http-proxy-2.svg)](http://badge.fury.io/js/express-http-proxy-2)
 
-Fork of [express-http-proxy]() including a fix for 
-- https://github.com/villadora/express-http-proxy/issues/509
+Fork of [express-http-proxy](https://github.com/villadora/express-http-proxy) including:
+- a fix for https://github.com/villadora/express-http-proxy/issues/509
+- TypeScript type definitions
 
 Express middleware to proxy request to another host and pass the response back to the original caller.
 

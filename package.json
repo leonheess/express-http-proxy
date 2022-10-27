@@ -1,6 +1,6 @@
 {
   "name": "express-http-proxy-2",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "http proxy middleware for express",
   "engines": {
     "node": ">=6.0.0"
@@ -24,6 +24,7 @@
     "url": "https://github.com/leonheess/express-http-proxy-2/issues"
   },
   "devDependencies": {
+    "@types/express": "^4.17.14",
     "body-parser": "^1.17.2",
     "chai": "^4.1.2",
     "cookie-parser": "^1.4.3",
